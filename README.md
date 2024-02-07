@@ -1,4 +1,6 @@
 ## ▎ ***Seunghun Song***
+- ***Backend Developer***
+- Interested in Process Automation
 
 ## ▎📖 Education
 
