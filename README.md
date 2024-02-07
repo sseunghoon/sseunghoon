@@ -2,13 +2,6 @@
 - ***Backend Developer***
 - Interested in Process Automation
 
-## ▎📖 Education
-
-- ***Sejong Uninversity*** (2018.03 - 2024.02)
-- ***42Seoul La Piscine***  (2022.04 - 2022.05)
-- ***42Seoul Cadet***  (2022.07 - 2024.01)
-- ***42Seoul Member***  (2024.01 - present)
-
 ## | 🖥️ Project
 |Project | summary| link|skills|
 |---|---|---|---|
@@ -31,6 +24,13 @@
 
 ## ▎🧑‍💻 Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseunghun99)](https://solved.ac/sseunghun99)
+
+## ▎📖 Education
+
+- ***Sejong Uninversity*** (2018.03 - 2024.02)
+- ***42Seoul La Piscine***  (2022.04 - 2022.05)
+- ***42Seoul Cadet***  (2022.07 - 2024.01)
+- ***42Seoul Member***  (2024.01 - present)
 
 ## | <span><img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white"/></span> 42 Seoul
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/seunghso?1337Badge=off&UM6P=off" alt="seunghso's 42 stats" /></a>
