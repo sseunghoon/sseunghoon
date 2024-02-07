@@ -28,3 +28,6 @@
 
 ## ▎🧑‍💻 Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseunghun99)](https://solved.ac/sseunghun99)
+
+## | 42 Seoul
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
