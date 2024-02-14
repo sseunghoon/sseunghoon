@@ -1,6 +1,7 @@
 ## ▎ ***Seunghun Song***
 - ***Backend Developer***
 - Interested in Process Automation
+- [Blog](https://velog.io/@sseunghoon/posts)
 
 ## | 🖥️ Project
 |Project | summary| link|skills|
