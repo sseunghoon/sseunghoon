@@ -33,7 +33,7 @@
 - ***42Seoul La Piscine***  (2022.04 - 2022.05)
 - ***42Seoul Cadet***  (2022.07 - 2024.01)
 - ***42Seoul Member***  (2024.01 - Present)
-- ***제15기 Software Maestro*** (2024.04 - Present)
+- ***Software Maestro 15기*** (2024.04 - Present)
 
 ## | <span><img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white"/></span> 42 Seoul
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/seunghso?1337Badge=off&UM6P=off" alt="seunghso's 42 stats" /></a>
