@@ -34,7 +34,9 @@
 - ***42Seoul La Piscine***  (2022.04 - 2022.05)
 - ***42Seoul Cadet***  (2022.07 - 2024.01)
 - ***42Seoul Member***  (2024.01 - Present)
+- ***현대오토에버x이노베이션아카데미 채용연계 프로그램*** (2024.04 - 2024.05)
 - ***Software Maestro 15기*** (2024.04 - Present)
+
 
 ## | <span><img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white"/></span> 42 Seoul
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/seunghso?1337Badge=off&UM6P=off" alt="seunghso's 42 stats" /></a>
